@@ -18,3 +18,13 @@ h2{
     padding: 10px;
     width: max-content;
 }
+
+.lasagna_des1{
+    width: max-content;
+    border-color: blue;
+    border: solid;
+}
+
+.lasagna_bold{
+    font-weight: bold;
+}
